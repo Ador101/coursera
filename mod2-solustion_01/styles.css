@@ -1,0 +1,25 @@
+
+.tall-section {
+    background-color: #f8f9fa;
+    height: 1000px;
+    padding: 20px;
+}
+
+#navbar-menu {
+    background-color: #e9ecef;
+}
+
+#navbar-menu ul {
+    margin: 0;
+    padding: 0;
+}
+
+#navbar-menu ul li {
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+
+#navbar-menu ul li a {
+    color: #333;
+    padding: 10px;
+    display: block;
